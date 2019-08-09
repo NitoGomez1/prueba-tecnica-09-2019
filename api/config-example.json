@@ -1,0 +1,5 @@
+
+{
+    "mongoUrl": "mongodb://<dbuser>:<dbpassword>@<dbserveruri>:<dbport>/<dbname>",
+    "port": 5000
+}

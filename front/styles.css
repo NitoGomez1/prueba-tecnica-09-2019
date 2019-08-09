@@ -1,0 +1,53 @@
+body,
+h1,
+figure {
+    margin: 0
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    font-size: 0;
+    background-color: #0073ad;
+}
+
+.logo-container img {
+    width: 250px;
+}
+
+.title-container {
+    padding: 35px;
+}
+
+.title-container h1 {
+    text-align: center;
+    color: #0073ad;
+    font-size: 30px;
+}
+
+.tests-container {
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center
+
+}
+
+.tests-container i {
+    margin-right: 15px;
+    display: none
+}
+
+.icofont-error {
+    color: red;
+}
+.icofont-check {
+    color: green;
+}
